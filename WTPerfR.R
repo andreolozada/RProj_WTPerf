@@ -1,4 +1,4 @@
-setwd("C:\\Projects\\WTPerfR")
+setwd("C:\\Projects\\WTPerf\\RProj_WTPerf")
 
 # load the dataset
 # source: https://www.kaggle.com/datasets/bhavikjikadara/wind-power-generated-data
